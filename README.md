@@ -50,25 +50,6 @@ The main objectives of this project are:
 
 ⸻
 
-Project Structure
-
-Weather-Forecast/
-│
-├── data/
-│   └── GlobalWeatherRepository.csv
-│
-├── figures/
-│
-├── models/
-│
-├── weather_trend_forecasting_end_to_end.ipynb
-│
-├── README.md
-│
-└── report.md
-
-⸻
-
 Data Cleaning
 
 The following preprocessing steps were performed:
